@@ -1,3 +1,6 @@
 code code
 code them 1 dong (chuc nang A)
 va 1 dong nua (chung nang B)
+
+code them 1 dong
+va 1 dong nua
